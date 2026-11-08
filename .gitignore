@@ -1,0 +1,13 @@
+# Installed dependencies
+node_modules/
+
+# Newman reports
+newman/
+reports/
+
+# Environment files containing local values
+.env
+.env.*
+
+# Operating system files
+.DS_Store
